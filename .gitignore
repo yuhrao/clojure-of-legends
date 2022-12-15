@@ -1,0 +1,5 @@
+.idea
+clojure-of-legends.iml
+node_modules/
+.shadow-cljs/
+.nrepl-port
