@@ -35,3 +35,7 @@
 ## To do
 - [ ] Get assets during startup
 - [ ] Store all necessary data to show up stuff in the frontend
+
+# Mockup
+
+![Clojure of Legends Mockup](./docs/mockup.png)
